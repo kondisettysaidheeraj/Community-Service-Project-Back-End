@@ -1,0 +1,2 @@
+Insert Into Standard values(1,'length must be less than 2000 lines',2000,'JavaFileLength',30,70);
+Insert Into Standard values(2,'First letter of each word is Capital','Stand','ClassandInterfaceNaming',30,70);
